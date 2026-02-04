@@ -36,14 +36,14 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 
 > Ce sont ces informations qui me permettront de vous noter, si vous ne vous présentez pas ici, je ne pourrais pas vous noter :)
 
-Noms des étudiants : 
-* LEFEBVRE Charles
-* MICHELIS Nathanyel
-* COMPAGNONI Florent
+Noms des étudiants :
+* DONKENG Caroline
+* NGAHA Derrick
+* PAMBE Grâce
 
-Date du jour : 28/01/2021
+Date du jour : 04/02/2026
 
-Tout est ok ? 
+Tout est ok ?
 Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** dépôt donc, puisque vous l'avez forké).
 
 > N'importe lequel des collaborateurs peut pusher !
