@@ -40,6 +40,7 @@ Noms des étudiants :
 * DONKENG Caroline
 * NGAHA Derrick
 * PAMBE Grâce
+* NGOUNE Yann
 
 Date du jour : 04/02/2026
 
