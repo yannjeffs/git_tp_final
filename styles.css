@@ -1,7 +1,55 @@
-h1 {
-    color: red;
+/* Style général */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f0f0f0; /* gris très clair pour contraste */
+  color: #2c3e50; /* texte sombre */
+  margin: 0;
+  padding: 0;
 }
 
+/* Titre principal */
+h1 {
+  background-color: #27ae60; /* vert vif */
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Section principale */
+section {
+  background-color: white;
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px 30px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-left: 6px solid #c0392b; /* accent rouge sur le côté */
+}
+
+/* Sous-titre */
 h2 {
-    color: green;
+  color: #c0392b; /* rouge pour sous-titre */
+  border-bottom: 2px solid #27ae60; /* ligne verte */
+  padding-bottom: 5px;
+}
+
+/* Liste */
+ol {
+  padding-left: 20px;
+}
+
+li {
+  font-weight: bold;
+  margin-top: 15px;
+  color: #27ae60; /* vert pour les titres des items */
+}
+
+/* Texte descriptif après chaque li */
+ol li + text,
+ol li + p {
+  font-weight: normal;
+  color: #555;
 }
